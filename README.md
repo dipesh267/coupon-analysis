@@ -38,8 +38,9 @@ It also seems coffee is considered more than just a luxury so driver of all inco
 
 ![App Screenshot](/images/coffeeByIncome.png)
 
-But if compared to bar coupons, coffee house coupons are more popular among drivers who alredy go to coffee houses quite frequently.
-If we were to push more coupons out, we should be targeting coupons to coffeeshop members or to those we already know go to coffee houses often.
+![App Screenshot](/images/coffeefreq.png)
+But if compared to bar coupons, coffee house coupons are more popular among drivers who already go to coffee houses quite frequently.
+If we were to push more coupons out, we should be targeting coupons to coffeeshop members or to those we already know go to coffee houses often. These coupons should also have an expiration of atleast of 1 day or more.
 
 ## Authors
 
