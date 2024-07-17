@@ -18,6 +18,20 @@ Of the 41% of coupons accepted for bars, acceptance is predominantly with those 
 
 ![App Screenshot](/images/barNokids.png) ![App Screenshot](/images/barKids.png)
 
+I think to get more of the bar coupons accepted, we should be targetting drivers who don't frequent bars. Bars may not be on the top of their priorities but having a good deal does tend to send them to bars.
+
+### Coffee House coupon analysis
+
+Coffee House coupons are generally more popular than other coupons. Most coffee house coupons accepted is around 10am.
+
+![App Screenshot](/images/coffeeByTime.png)
+
+I also looked at dependency of the coupon acceptances on age. Though the most coupons accepted were by drivers of age below 21 but it is almost popular with all age groups except for ages over 50.
+
+![App Screenshot](/images/coffeeOverallAge.png)
+
+![App Screenshot](/images/coffeeUnder21.png)
+
 ## Authors
 
 - [@octokatherine](https://www.github.com/octokatherine)
