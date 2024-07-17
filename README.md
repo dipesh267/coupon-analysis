@@ -16,7 +16,7 @@ Of the 41% of coupons accepted for bars, acceptance is predominantly with those 
 
 ![App Screenshot](/images/barNokids.png) ![App Screenshot](/images/barKids.png)
 
-I think to get more of the bar coupons accepted, we should be targetting drivers who don't frequent bars. Bars may not be on the top of their priorities but having a good deal does tend to send them to bars.
+#### I think to get more of the bar coupons accepted, we should be targetting drivers who don't frequent bars. Bars may not be on the top of their priorities but having a good deal does tend to send them to bars.
 
 ### Coffee House coupon analysis
 
@@ -37,8 +37,10 @@ It also seems coffee is considered more than just a luxury so driver of all inco
 ![App Screenshot](/images/coffeeByIncome.png)
 
 ![App Screenshot](/images/coffeefreq.png)
-But if compared to bar coupons, coffee house coupons are more popular among drivers who already go to coffee houses quite frequently.
-If we were to push more coupons out, we should be targeting coupons to coffeeshop members or to those we already know go to coffee houses often. These coupons should also have an expiration of atleast of 1 day or more.
+
+#### But if compared to bar coupons, coffee house coupons are more popular among drivers who already go to coffee houses quite frequently.
+
+#### If we were to push more coupons out, we should be targeting coupons to coffeeshop members or to those we already know go to coffee houses often. These coupons should also have an expiration of atleast of 1 day or more.
 
 ## Authors
 
