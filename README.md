@@ -30,6 +30,8 @@ I also looked at dependency of the coupon acceptances on age. Though the most co
 
 ![App Screenshot](/images/coffeeOverallAge.png)
 
+Because it was most popluar with age group over 21, I checked to see if there is a specific time for that age group that might make the coupon more acceptable but it seems to go along with the over coupon acceptance of around 10am.
+
 ![App Screenshot](/images/coffeeUnder21.png)
 
 ## Authors
