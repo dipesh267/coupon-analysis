@@ -8,7 +8,15 @@ Of all types of coupons offered, I'd like to look at coupons offered for Bars an
 
 ![App Screenshot](/images/ageAndCoupon.png)
 
-As we look at the age relationship, we can see that the drivers under the age of 25 are most likely to accpet coupons in general than the other age groups.
+As we look at the age relationship, we can see that the drivers under the age of 25 are most likely to accept coupons in general than the other age groups.
+
+### Bar coupon analysis
+
+Of the 41% of coupons accepted for bars, acceptance is predominantly with those drivers that don't go to bars often. As we go into the groups that go to bars more than 1 to 3 times, the acceptance rates go down. Conditions such as having kids as passengers,income levels, and age seem to play a minor part.
+
+![App Screenshot](/images/barFreqAccpt.png)
+
+![App Screenshot](/images/barNokids.png) ![App Screenshot](/images/barKids.png)
 
 ## Authors
 
