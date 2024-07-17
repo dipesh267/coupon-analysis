@@ -34,6 +34,10 @@ Because it was most popluar with age group over 21, I checked to see if there is
 
 ![App Screenshot](/images/coffeeUnder21.png)
 
+It also seems coffee is considered more than just a luxury so driver of all income level seem to accept coffee house coupons.
+
+![App Screenshot](/images/coffeeByIncome.png)
+
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@dipesh267](https://github.com/dipesh267)
